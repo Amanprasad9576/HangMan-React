@@ -28,8 +28,6 @@ function TextInputFormContainer({ onSubmit}) {
             setInputType={setInputType}
         />
     );
-
 }
-
 export default TextInputFormContainer;
 
